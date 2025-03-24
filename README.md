@@ -7,7 +7,7 @@ Crypto Hockey League is an on-chain multiplayer hockey simulation game built on 
 - ⚔ **Play Matches** – Compete against other teams in randomized matchups.
 - 📊 **Track Stats** – Wins and losses are recorded on-chain. 
 - 🔥 **Decentralized & Fair** – Game results are determined by blockchain randomness.
-
+ 
 ## How It Works
 1. **Create a Team** – Call `createTeam(string _name)` to register a team.
 2. **Compete in Matches** – Use `playMatch(uint256 _team1, uint256 _team2)` to simulate a match.
