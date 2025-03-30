@@ -15,7 +15,7 @@ Crypto Hockey League is an on-chain multiplayer hockey simulation game built on 
 
 ## Smart Contract Overview
 The smart contract manages:
-- Team creation and ownership. 
+- Team creation and ownership.  
 - Randomized match results.
 - Win/loss tracking.
 
